@@ -2,7 +2,7 @@
   "name": "gclosurectest",
   "version": "1.0.0",
   "description": "",
-  "main": "test.js",
+  "main": "main.js",
   "scripts": {
     "start": "webpack-dev-server -d -w",
     "editor": "webpack-dev-server -d -w --config webpack.editor-config.js",
